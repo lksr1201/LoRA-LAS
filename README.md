@@ -13,6 +13,7 @@ This repository provides the official implementation of **LoRA-LAS** (Label-Awar
 > **"基于改进低阶适应的开放词汇语音情感识别"**  
 > Liu Kangwei, Ding Hanyu, Gao Lijian, Mao Qirong
 > 二十届全国人机语音通讯学术会议（National Conference on Man-Machine Speech Communication，NCMMSC2025）Oral 论文，5%
+> 
 > *Journal of Frontiers of Computer Science and Technology*
 
 [[Paper Link (arXiv/TBD)](https://doi.org/10.3778/j.issn.1673-9418.0000000)]  
