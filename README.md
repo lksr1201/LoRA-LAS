@@ -1,5 +1,3 @@
-
-
 ---
 
 # Open-Vocabulary Speech Emotion Recognition with Label-Aware Scaling LoRA (LoRA-LAS)
