@@ -127,9 +127,7 @@ If you find this work useful, please cite our paper:
 @article{liu2025lora-las,
   title={基于改进低阶适应的开放词汇语音情感识别},
   author={Liu, Kangwei and Ding, Hanyu and Gao, Lijian and Mao, Qirong},
-  journal={Journal of Frontiers of Computer Science and Technology},
-  year={2025},
-  doi={10.3778/j.issn.1673-9418.0000000}
+  
 }
 ```
 
